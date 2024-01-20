@@ -250,5 +250,5 @@ footer .footer-heading{
 }
 footer .footer-site{
     color: var(--yellow);
-    font-family: var(--text-font);
+    font-family: var(--heading-font);
 }
